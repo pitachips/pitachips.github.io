@@ -62,7 +62,7 @@ repository: pitachips/pitachips.github.io
 # Site Author
 author:
   name: "Pita Pan"
-  # avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/pita-potato.jpeg"
   bio: "I am an amazing earthling."
   location: "Wanderland by mistake"
   # email:
